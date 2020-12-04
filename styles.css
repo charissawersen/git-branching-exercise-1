@@ -1,3 +1,13 @@
 body {
     background-color: darkred;
 }
+
+p {
+    font-size: x-large;
+    color: whitesmoke;
+}
+footer {
+    font-size: medium;
+    color: black;
+    background-color: cornsilk;
+}
